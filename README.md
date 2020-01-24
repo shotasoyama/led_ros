@@ -5,11 +5,11 @@
 ROSでLEDを光らせるプログラム
 [課題1](https://github.com/shotasoyama/led_teach_and_replay)のプログラムをROSで簡単に実行できるようにした
 
-echo 0 > /dev/myled0 →　0 
-echo 1 > /dev/myled0 →　1 
-echo 2 > /dev/myled0 →　2 
-echo 3 > /dev/myled0 →　3 
-echo R > /dev/myled0 →　4 
+echo 0 > /dev/myled0 →　0<br>
+echo 1 > /dev/myled0 →　1<br>
+echo 2 > /dev/myled0 →　2<br>
+echo 3 > /dev/myled0 →　3<br> 
+echo R > /dev/myled0 →　4<br>
 
 [デモ動画](https://youtu.be)
 
