@@ -11,7 +11,7 @@ echo 2 > /dev/myled0 →　2<br>
 echo 3 > /dev/myled0 →　3<br> 
 echo R > /dev/myled0 →　4<br>
 
-[デモ動画](https://youtu.be)
+[デモ動画](https://youtu.be/UNZF1xYwNh8)
 
 ## 動作環境
 
